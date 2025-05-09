@@ -20,3 +20,5 @@ tests/*.log
 build
 PTHREADS-BUILT
 .vscode
+/.zig-cache/
+/zig-out/
